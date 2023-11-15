@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "2ce3c55e-1d86-4614-ba4c-a46fe8b07991",
+      "name": "AppA",
+      "publisher": "BEYONDIT GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
