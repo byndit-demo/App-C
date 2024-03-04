@@ -8,6 +8,5 @@
   "UpdateGitHubGoSystemFilesSchedule": "0 0 * * 6",
   "enableCodeCop": true,
   "enableUICop": true,
-  "useProjectDependencies": true,
   "assignPremiumPlan": true
 }
