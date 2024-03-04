@@ -1,6 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go@issue823",
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
   "useProjectDependencies": true,
   "nextMajorSchedule": "0 0 1 * *",
   "nextMinorSchedule": "0 0 1,15 * *",
